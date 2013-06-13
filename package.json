@@ -1,0 +1,17 @@
+{
+  "name": "base64",
+  "version": "0.0.0",
+  "description": "base64 ======",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lianhanjin/base64.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "b41f52cbb1be4b8aaccbac8b32094772d282d9e2"
+}
